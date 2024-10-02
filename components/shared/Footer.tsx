@@ -13,7 +13,7 @@ const Footer = () => {
                         height={38}
                     />
                 </Link>
-                <p>2024 BeVeloz. Todos os direitos reservados</p>
+                <p>©2024 BeVeloz. Todos os direitos reservados</p>
             </div>
         </footer>
     )
